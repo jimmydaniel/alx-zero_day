@@ -1,1 +1,2 @@
-My first readme
+My first readme. 
+Message from github GUI.
